@@ -1,0 +1,1 @@
+git clean -ndX | awn '{print %3}'
